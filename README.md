@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"/> <!-- вместо ссылки любую gif -->
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/> <!-- вместо ссылки любую gif -->
 </div>
 <div id="badges" align="center">
   <a href="your-facebook-URL">
