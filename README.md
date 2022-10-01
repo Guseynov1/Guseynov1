@@ -5,7 +5,7 @@
   <a href="your-facebook-URL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-vk-URL">
+  <a href="https://vk.com/victim1">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="your-twitter-URL">
