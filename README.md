@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/> <!-- вместо ссылки любую gif -->
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-facebook-URL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -20,5 +20,8 @@
   <a href="your-mail-URL">
     <img src="https://img.shields.io/badge/Mail.ru-purple?style=for-the-badge&logo=yandex&logoColor=white" alt="Mail Badge"/>
   </a>
+</div>
+<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Guseynov1&style=flat-square&color=green" alt=""/>
 </div>
+
