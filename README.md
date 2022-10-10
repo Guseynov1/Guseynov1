@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/> <!-- вместо ссылки любую gif -->
 </div>
 <div id="badges" align="center">
-  <a href="your-facebook-URL">
+  <a href="https://www.facebook.com/victim000">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://vk.com/victim1">
