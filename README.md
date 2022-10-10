@@ -14,10 +14,10 @@
   <a href="guseynov.gamzat.1999@gmail.com">
     <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
   </a>
-  <a href="your-yandex-URL">
+  <a href="guseynov.gamzat.1999@yandex.ru">
     <img src="https://img.shields.io/badge/Yandex-yellow?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Badge"/>
   </a>
-  <a href="your-mail-URL">
+  <a href="gamzat.guseynov.1999@mail.ru">
     <img src="https://img.shields.io/badge/Mail.ru-purple?style=for-the-badge&logo=yandex&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
