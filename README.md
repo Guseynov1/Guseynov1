@@ -30,7 +30,7 @@
 
 
 ---
-### note: 
+### Note's: 
 --- google/yandex/mail.ru mail for communication is displayed in the upper bar of the notes about the undiscovered path when you click on the corresponding button ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
